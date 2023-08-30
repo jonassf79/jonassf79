@@ -10,6 +10,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonassf79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
 
+<div style="display: inline_block"> <br>
+  <img alt="Jonas-JS" alingn="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Jonas-Java" alingn="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
+</div>
 
 ### Currently Learning: 
 
