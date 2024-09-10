@@ -12,16 +12,6 @@
 </div>
 <div>
 
-<div style="display: inline_block"> <br>
-  <img alt="Jonas-JS" alingn="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Jonas-Java" alingn="center" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
-</div>
-
-### Currently Learning: 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Openjdk&labelColor=0D1117)&nbsp;
-
 ### How to reach me:
 <div>
 <a href="https://instagram.com/jenaskk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
